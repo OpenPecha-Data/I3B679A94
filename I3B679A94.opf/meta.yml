@@ -1,0 +1,18 @@
+id: I3B679A94
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:05.389935
+last_modified: 2023-01-04 11:31:05.389942
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  2D3D:
+    title: Essence of All the Buddhas of Past, Present and Future
+    base_file: 2D3D.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
